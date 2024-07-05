@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "948431294245",
+    "project_id": "pg-management-e23cf",
+    "storage_bucket": "pg-management-e23cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948431294245:android:05125e7f2c1b54bee514cc",
+        "android_client_info": {
+          "package_name": "com.example.pg_management"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEc87XV5Ipp3nEFvw73MoC8tdCj5wvb0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
